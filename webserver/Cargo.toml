@@ -1,0 +1,6 @@
+[package]
+name = "webserver"
+version = "0.1.0"
+authors = ["Yogesh Choudhary <yogesum@gmail.com>"]
+
+[dependencies]
