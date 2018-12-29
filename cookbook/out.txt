@@ -1,0 +1,25 @@
+ls: cannot access 'oops': No such file or directory
+.:
+algorithms.rs
+archive.tar.gz
+backup
+basics
+cats.db
+cli.rs
+compression.rs
+concurrency
+concurrency.rs
+crypto.rs
+database.rs
+data-structures.rs
+error.rs
+file.txt
+hardware.rs
+memory.rs
+network.rs
+os.rs
+output.png
+out.txt
+parallel.rs
+thumbnails
+vec_sort.rs
